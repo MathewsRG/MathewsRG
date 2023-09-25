@@ -7,7 +7,11 @@
 -------------------------------------------------
 
 # My Background
-Been fiddling with tech for over 10+ years now! Homelabbing since 2015, received my diploma in Network Engineering in 2017, and finished my Bachelors in Network Management in 2020. Just recently started taking classes again to gain more development knowledge in the hopes of improving my automation capabilities both inside and outside of my home environment. Hoping to build up a collaborative tech community within my area, while also communicating/collaborating with wonderful minds all over the world! 🌎
+Been fiddling with tech for over 10+ years now! Homelabbing since 2015, received my diploma in Network Engineering in 2017, and finished my Bachelors in Network Management in 2020.
+
+Just recently started taking classes again to gain more development knowledge in the hopes of improving my automation capabilities both inside and outside of my home environment. 
+
+Hoping to build up a collaborative tech community within my area, while also communicating/collaborating with wonderful minds all over the world! 🌎
 
 * 🌍  Based in Saskatoon, Saskatchewan 🍁
 * ✉️  You can contact me at [r.mathews@hotmail.com](mailto:r.mathews@hotmail.com) or on Discord at SilentSnake411
@@ -15,6 +19,13 @@ Been fiddling with tech for over 10+ years now! Homelabbing since 2015, received
 * 🤝  Open to collaborating on Homelabbing projects, general networking/security discussions, or working together to crush some CTF's 🚩
 * 🎮  Currently Playing: Cyberpunk 2077, Hacknet, Eldenring, Demon Souls, and eagerly awaiting for the Metal Gear Solid: Master Collection
 * ⚡  Outside of tech, I am an Amateur Boyfriend/Chef to one of the most lovely radiologists in the entire world 👩‍⚕️
+
+-------------------------------------------------
+
+# My Projects
+Wow! Zero public repo's!
+
+Currently working on documenting my process of creating a three node Ceph cluster within Proxmox and how I approached it from both a hardware and networking perspective.
 
 -------------------------------------------------
 
